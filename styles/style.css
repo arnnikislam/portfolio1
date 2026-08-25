@@ -97,3 +97,32 @@ header {
   width: 584px;
   height: 676px;
 }
+
+/* about me section */
+.about-me {
+  max-width: 1140px;
+  height: 400px;
+  background-color: #fff8f3;
+  border-radius: 10px;
+  padding: 130px 155px;
+  margin: 130px 230px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.about-me h3 {
+  color: #181818;
+  font-size: 35px;
+}
+.about-me p {
+  color: #757575;
+  font-size: 18px;
+}
+.about-me .info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.about-me div p span {
+  color: #181818;
+  font-weight: bold;
+}
