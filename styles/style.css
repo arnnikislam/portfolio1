@@ -204,6 +204,20 @@ header {
   margin-bottom: 30px;
 }
 
+/* img gallery section */
+.img-gallery h3 {
+  color: #181818;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 100px;
+}
+.img-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: 100px 230px;
+  gap: 24px;
+}
+
 /* footer section */
 .footer {
   margin-top: 80px;
