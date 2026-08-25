@@ -49,4 +49,4 @@ Update `index.html` to replace the sample name, biography, resume entries, conta
 
 ## License
 
-No license has been specified for this project. Add a license file before reusing or distributing it publicly.
+No license required.
