@@ -203,3 +203,40 @@ header {
   font-size: 16px;
   margin-bottom: 30px;
 }
+
+/* footer section */
+.footer {
+  margin-top: 80px;
+  background-color: #fff8f3;
+  display: flex;
+  gap: 115px;
+  padding: 130px 230px;
+}
+.footer-des h3,
+.footer-message h3 {
+  color: #181818;
+  font-size: 35px;
+}
+.footer-des p {
+  font-size: 16px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+.footer-message input,
+textarea {
+  width: 461px;
+  height: 61px;
+  background-color: white;
+  color: #757575;
+  border-radius: 5px;
+  padding: 18px 30px;
+  display: block;
+  border: none;
+  margin-bottom: 24px;
+}
+.footer-message textarea {
+  height: 180px;
+}
+.f-icons img {
+  margin-left: 30px;
+}
